@@ -1,0 +1,17 @@
+{
+  "name": "cipherBot",
+  "version": "1.0.0",
+  "description": "Insert Later",
+  "main": "index.js",
+  "repository": "https://github.com/csz8115/CipherBot",
+  "author": "Cory Zeitz <csz8115@rit.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/Bot.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
